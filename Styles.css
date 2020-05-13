@@ -1,0 +1,45 @@
+
+/* Main page */
+
+.Wrapper{
+    overflow-x: hidden;
+}
+
+.navbar
+{
+    border-bottom: 3px solid greenyellow;
+}
+
+.navbar:a{
+    color: gray;
+}
+
+.navbar:hover{
+    color: gainsboro;
+}
+a{
+    color: white;
+}
+a:link{
+    color: white;
+}
+
+a:hover{
+    color: gray;
+    text-decoration: none;
+}
+
+
+/* Surveys Page */
+
+.item-list{
+    color: white;
+}
+
+.active{
+    color: greenyellow;
+}
+
+.form-control{
+    max-block-size: 60%;
+}
